@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1010766065231",
+    "project_id": "ing-unofficial-app",
+    "storage_bucket": "ing-unofficial-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010766065231:android:2ee659321a68baa2bfc43a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010766065231-3hh2sbcr32vaadgc5gac86baoekqunks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7ZXNXsusFzS9MXrDfXQiq8dHEnLRO1bo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010766065231-3hh2sbcr32vaadgc5gac86baoekqunks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
